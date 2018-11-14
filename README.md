@@ -1,2 +1,2 @@
 # apl
-apl samples
+Repository to keep useful APL samples
